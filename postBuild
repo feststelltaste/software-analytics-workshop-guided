@@ -1,2 +1,2 @@
 jupyter contrib nbextension install --user
-
+cp assets/notebook.json ~/.jupyter/nbconfig/

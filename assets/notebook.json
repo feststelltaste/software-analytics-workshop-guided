@@ -1,0 +1,23 @@
+{
+  "load_extensions": {
+    "nbextensions_configurator/config_menu/main": false,
+    "contrib_nbextensions_help_item/main": false,
+    "freeze/main": true,
+    "hide_input/main": false,
+    "collapsible_headings/main": true,
+    "exercise2/main": false,
+    "jupyter-js-widgets/extension": false,
+    "nbdime/index": false
+  },
+  "collapsible_headings": {
+    "use_toggle_controls": true,
+    "make_toggle_controls_buttons": false,
+    "size_toggle_controls_by_level": false,
+    "toggle_closed_icon": "fa-caret-right",
+    "toggle_open_icon": "",
+    "use_shortcuts": false
+  },
+  "Freeze": {
+    "frozen_color": "#ddf3e1"
+  }
+}
