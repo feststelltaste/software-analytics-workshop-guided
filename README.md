@@ -12,7 +12,6 @@ You find the following content in this repository:
 
 * `cheatbooks`: introductory examples into the world of data analysis with python, pandas & co.
 * `datasets`: various data from software systems or the like that is going to be analyzed
-* `challenges`: a collection of challenges that give you just a few pointers on how to solve a Software Analytics task 
 * `exercises`: a collection of exercises you can tackle once you know enough about Software Analytics (incl. possible solutions)
 * `tutorial`: a self-study tutorial that introduces you to the art of Software Analytics with Data Science tooling
 
