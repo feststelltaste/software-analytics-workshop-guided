@@ -23,7 +23,7 @@ You find the following content in this repository:
 
 If you look at a repository without the solution, please take a look at the [workshop repository without solutions](https://github.com/feststelltaste/software-analytics-workshop ).
 
-If you want to challenge yourself or your team with Software Analytics related questions, take a look at [Software Analytics Katas](https://github.com/feststelltaste/awesome-software-analytics).
+If you want to challenge yourself or your team with Software Analytics related questions, take a look at [Software Analytics Katas](https://github.com/feststelltaste/software-analytics-katas).
 
 From time to time, I also give  [Software Analytics workshops via INNOQ](https://www.innoq.com/en/trainings/software-analytics/). You can also contact INNOQ directly if you want to have me for a [company-internal Software analytics workshop](https://www.innoq.com/en/training_inquiries/new/?training_id=110).
 
