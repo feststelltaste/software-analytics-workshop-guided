@@ -6,7 +6,7 @@ The main idea is to give you enough material to get you started with Software An
  
 From there, a good start are the so-called Jupyter Notebooks in `tutorial`. You'll be guided through some examples of Software Analytics. After this, I recommend that you take a tour through `cheatbooks`. Here you can get additional information about using the data analysis framework "pandas" to conduct data-driven software analyses. After this, you can try to solve some of the `exercises` that contain possible solutions for the tasks if you got stuck. 
 
-If you look at a repository without the solution, please take a look at the [workshop repository without solutions](https://github.com/feststelltaste/software-analytics-workshop .)
+If you look at a repository without the solution, please take a look at the [workshop repository without solutions](https://github.com/feststelltaste/software-analytics-workshop ).
 
 If you want to challenge yourself or your team with Software Analytics related questions, take a look at [Software Analytics Katas](https://github.com/feststelltaste/awesome-software-analytics).
 
