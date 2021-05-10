@@ -6,14 +6,6 @@ The main idea is to give you enough material to get you started with Software An
  
 From there, a good start are the so-called Jupyter Notebooks in `tutorial`. You'll be guided through some examples of Software Analytics. After this, I recommend that you take a tour through `cheatbooks`. Here you can get additional information about using the data analysis framework "pandas" to conduct data-driven software analyses. After this, you can try to solve some of the `exercises` that contain possible solutions for the tasks if you got stuck. 
 
-If you look at a repository without the solution, please take a look at the [workshop repository without solutions](https://github.com/feststelltaste/software-analytics-workshop ).
-
-If you want to challenge yourself or your team with Software Analytics related questions, take a look at [Software Analytics Katas](https://github.com/feststelltaste/awesome-software-analytics).
-
-From time to time, I also give  [Software Analytics workshops via INNOQ](https://www.innoq.com/en/trainings/software-analytics/). You can also contact INNOQ directly if you want to have me for a [company-internal Software analytics workshop](https://www.innoq.com/en/training_inquiries/new/?training_id=110).
-
-You want to know more about Software Analytics? Please visit my info page at https://softwareanalytics.de/!
-
 ## Content
 
 You find the following content in this repository:
@@ -27,3 +19,13 @@ You find the following content in this repository:
 ## Feedback
 
 * Found a bug? Is something not understandable? Got ideas for new stuff? Let me know by [filing an issue in this GitHub repository](https://github.com/feststelltaste/software-analytics-workshop-guided/issues)! 
+
+## What's next?
+
+If you look at a repository without the solution, please take a look at the [workshop repository without solutions](https://github.com/feststelltaste/software-analytics-workshop ).
+
+If you want to challenge yourself or your team with Software Analytics related questions, take a look at [Software Analytics Katas](https://github.com/feststelltaste/awesome-software-analytics).
+
+From time to time, I also give  [Software Analytics workshops via INNOQ](https://www.innoq.com/en/trainings/software-analytics/). You can also contact INNOQ directly if you want to have me for a [company-internal Software analytics workshop](https://www.innoq.com/en/training_inquiries/new/?training_id=110).
+
+You want to know more about Software Analytics? Please visit my info page at https://softwareanalytics.de/!
