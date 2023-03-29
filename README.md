@@ -2,7 +2,7 @@
 
 This repository contains several interactive programming examples for introducing people to the world of Software Analytics with Jupyter Notebook, Python, pandas, and Co.
 
-The main idea is to give you enough material to get you started with Software Analytics. Thus, you can click on the following button to create an online environment without any installation efforts: [![Binder](http://mybinder.org/badge.svg)](https://mybinder.org/repo/feststelltaste/software-analytics-workshop-guided/HEAD?urlpath=%2Fnotebooks%2F)
+The main idea is to give you enough material to get you started with Software Analytics. Thus, you can click on the following button to create an online environment without any installation efforts: [![Binder](http://mybinder.org/badge.svg)](https://mybinder.org/repo/feststelltaste/software-analytics-workshop-guided/HEAD?urlpath=tree/)
  
 From there, a good start are the so-called Jupyter Notebooks in `tutorial`. You'll be guided through some examples of Software Analytics. After this, I recommend that you take a tour through `cheatbooks`. Here you can get additional information about using the data analysis framework "pandas" to conduct data-driven software analyses. After this, you can try to solve some of the `exercises` that contain possible solutions for the tasks if you got stuck. 
 
