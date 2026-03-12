@@ -3,4 +3,3 @@
 pandas
 matplotlib
 pygal
-jupyter_contrib_nbextensions
