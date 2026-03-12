@@ -15,6 +15,10 @@ You find the following content in this repository:
 * `exercises`: a collection of exercises you can tackle once you know enough about Software Analytics (incl. possible solutions)
 * `tutorial`: a self-study tutorial that introduces you to the art of Software Analytics with Data Science tooling
 
+## Slides
+
+* You can find the slides of this workshop on [Speakerdeck](https://speakerdeck.com/feststelltaste/software-analytics-data-driven-improvement-of-software-quality).
+
 ## Feedback
 
 * Found a bug? Is something not understandable? Got ideas for new stuff? Let me know by [filing an issue in this GitHub repository](https://github.com/feststelltaste/software-analytics-workshop-guided/issues)! 
